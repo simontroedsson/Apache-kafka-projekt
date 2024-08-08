@@ -1,0 +1,30 @@
+product_name,product_type,price,quantity
+Laptop,Electronics,800,1500
+Smartphone,Electronics,600,2000
+Headphones,Electronics,100,300
+Desk Chair,Furniture,150,500
+Coffee Table,Furniture,200,1000
+Sofa,Furniture,700,5000
+Running Shoes,Apparel,80,100
+T-Shirt,Apparel,20,700
+Jeans,Apparel,50,500
+Backpack,Accessories,40,250
+Watch,Accessories,120,369
+Sunglasses,Accessories,80,110
+Coffee Maker,Kitchen Appliances,50,400
+Blender,Kitchen Appliances,70,313
+Toaster,Kitchen Appliances,30,500
+Desk Lamp,Home Decor,25,900
+Throw Pillow,Home Decor,15,120
+Wall Clock,Home Decor,40,800
+Notebook,Stationery,5,200
+Pen Set,Stationery,10,300
+Desk Organizer,Stationery,15,500
+Dumbbells,Fitness Equipment,30,500
+Yoga Mat,Fitness Equipment,20,900
+Jump Rope,Fitness Equipment,10,100
+Backpack,Outdoor Gear,50,3000
+Tent,Outdoor Gear,150,200
+Sleeping Bag,Outdoor Gear,80,250
+Hiking Boots,Outdoor Gear,120,400
+Water Bottle,Outdoor Gear,15,100

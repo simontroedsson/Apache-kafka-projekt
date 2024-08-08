@@ -1,0 +1,237 @@
+{
+    "date": "2024-02-26",
+    "order_count": 1384,
+    "total_sales": 124940,
+    "products_sold": [
+        {
+            "product_name": "Coffee Maker",
+            "quantity_sold": 40
+        },
+        {
+            "product_name": "Smartphone",
+            "quantity_sold": 32
+        },
+        {
+            "product_name": "Sleeping Bag",
+            "quantity_sold": 25
+        },
+        {
+            "product_name": "Water Bottle",
+            "quantity_sold": 100
+        },
+        {
+            "product_name": "Toaster",
+            "quantity_sold": 53
+        },
+        {
+            "product_name": "T-Shirt",
+            "quantity_sold": 200
+        },
+        {
+            "product_name": "Desk Lamp",
+            "quantity_sold": 90
+        },
+        {
+            "product_name": "Desk Organizer",
+            "quantity_sold": 100
+        },
+        {
+            "product_name": "Notebook",
+            "quantity_sold": 200
+        },
+        {
+            "product_name": "Yoga Mat",
+            "quantity_sold": 70
+        },
+        {
+            "product_name": "Backpack",
+            "quantity_sold": 140
+        },
+        {
+            "product_name": "Blender",
+            "quantity_sold": 35
+        },
+        {
+            "product_name": "Throw Pillow",
+            "quantity_sold": 120
+        },
+        {
+            "product_name": "Wall Clock",
+            "quantity_sold": 80
+        },
+        {
+            "product_name": "Running Shoes",
+            "quantity_sold": 100
+        },
+        {
+            "product_name": "Sofa",
+            "quantity_sold": 10
+        },
+        {
+            "product_name": "Sunglasses",
+            "quantity_sold": 70
+        },
+        {
+            "product_name": "Pen Set",
+            "quantity_sold": 150
+        },
+        {
+            "product_name": "Coffee Table",
+            "quantity_sold": 15
+        },
+        {
+            "product_name": "Jeans",
+            "quantity_sold": 150
+        },
+        {
+            "product_name": "Headphones",
+            "quantity_sold": 50
+        },
+        {
+            "product_name": "Dumbbells",
+            "quantity_sold": 50
+        },
+        {
+            "product_name": "Jump Rope",
+            "quantity_sold": 100
+        },
+        {
+            "product_name": "Watch",
+            "quantity_sold": 60
+        },
+        {
+            "product_name": "Desk Chair",
+            "quantity_sold": 25
+        },
+        {
+            "product_name": "Hiking Boots",
+            "quantity_sold": 40
+        },
+        {
+            "product_name": "Laptop",
+            "quantity_sold": 20
+        },
+        {
+            "product_name": "Tent",
+            "quantity_sold": 20
+        }
+    ]
+}{
+    "date": "2024-02-27",
+    "order_count": 4314,
+    "total_sales": 0,
+    "products_sold": [
+        {
+            "product_name": "Coffee Maker",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Sleeping Bag",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Toaster",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Throw Pillow",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Wall Clock",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "T-Shirt",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Smartphone",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Backpack",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Laptop",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Jump Rope",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Desk Organizer",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Yoga Mat",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Desk Lamp",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Hiking Boots",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Water Bottle",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Tent",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Blender",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Dumbbells",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Watch",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Headphones",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Sofa",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Desk Chair",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Pen Set",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Coffee Table",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Notebook",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Sunglasses",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Jeans",
+            "quantity_sold": 0
+        },
+        {
+            "product_name": "Running Shoes",
+            "quantity_sold": 0
+        }
+    ]
+}
